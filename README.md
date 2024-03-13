@@ -7,7 +7,7 @@ Team: Fatima Dekmak - Sumaya Hariri - Aida Fakher
 - **Task: Predict the type of cancer and identify potential biomarkers**
 
 ##  Report:
-- Latex Link: https://www.overleaf.com/8815319338qvnnxkyxwwpf#7d9fc6
+- Latex Link: https://www.overleaf.com/read/sdwdfbqbrvby#9511a1
 1. Abstract: provide a summary describing the problem you chose, how you tackled it, and a summary of your results.
 2. Introduction: describe your problem in detail and summarize your approach and findings
 3. Dataset: describe the dataset you used to train your models, and any pre-processing steps you performed.
