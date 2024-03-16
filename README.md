@@ -33,7 +33,3 @@ Team: Fatima Dekmak - Sumaya Hariri - Aida Fakher
 - Trained model will be downloaded from the Github repository and will be tested on a holdout test
 - Should submit a separate notebook for your project that can be used to upload your trained model and test it
 - This notebook should perform all pre-processing steps needed to apply the model on raw test data
-
-
-## References:
-- Save and Load Model: https://www.youtube.com/watch?v=br5Y-8CS26E
