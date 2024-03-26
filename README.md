@@ -1,4 +1,26 @@
 # ML Project: Breast Cancer
+
+# Schedule 
+1. Week of March 25 =>
+- Setting up the code 
+- Data pre-processing (duplication, null, ...)
+- Skimming papers (Aida)
+3. Week of April 1  =>
+- Test the following (By all team members)
+    - Logistic Regression 
+    - Support Vector Machines (SVM)
+    - Random Forest ?
+    - Gradient Boosting Machines ?
+    - Ensemble Methods 
+    - Feature Selection Techniques
+    - Dimensionality Reduction Techniques ?
+4. Week of April 8  =>
+- Check papers
+- Check progress
+5. Week of April 15 => 
+6. Week of April 22 => 
+7. Week of April 29 =>  
+
 Team: Fatima Dekmak - Sumaya Hariri - Aida Fakher
 
 ## Description:
