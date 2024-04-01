@@ -23,3 +23,4 @@
 - https://typeset.io/papers/machine-learning-models-applied-in-analyzing-breast-cancer-1ssae5x4
 - https://typeset.io/papers/machine-learning-and-data-analysis-based-breast-cancer-3vq3m71f
 - https://typeset.io/papers/multi-class-classification-for-breast-cancer-with-high-2mks0qyp
+- https://typeset.io/papers/breast-cancer-prediction-using-machine-learning-classifiers-12z5qiid
