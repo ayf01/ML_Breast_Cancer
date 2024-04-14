@@ -18,7 +18,21 @@
 - Check papers
 - Check progress
 5. Week of April 15 => 
+- Model training and hyper parameter tuning
+    - Logistic Regression (Fatima)
+    - Random Forest (Sumaya)
+    - Gradient Boosting (Sumaya)
+    - Neural Network (Aida)
+    - SVM (Aida)
+- Checking papers (11)
+    - 4 papers (Sumaya)
+    - 4 papers (Aida)
+    - 3 papers (Fatima)
+- Feature selection (reducing the number of features) (Fatima)
 6. Week of April 22 => 
+- Share paper results 
+- Adjust models if needed 
+- Start writing the report and prepare submission 
 7. Week of April 29 =>  
 
 Team: Fatima Dekmak - Sumaya Hariri - Aida Fakher
