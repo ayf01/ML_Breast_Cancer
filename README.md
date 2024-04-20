@@ -30,7 +30,13 @@
     - 3 papers (Fatima)
 - Feature selection (reducing the number of features) (Fatima)
 6. Week of April 22 => 
-
+Steps:
+    1 - Import data
+    2 - Split (Train - Val - Test) - Drop patient ID column
+    3 - Feature Selection & Dimensionality Reduction
+    4 - Data Cleaning (replace null with closest values) and fixing imbalance (weighting - fmeasure)
+    5 - Encoding  
+    6 - Always try on those 3 models: SVM - RandomForest - XGBoost
 - Apply different feature selection / dimensionality reduction / pre-processing / data imbalance / data encoding for categorical data 
 - Create excel sheet for papers and common questions for AI tool
 - Start writing the report based on the paper summaries 
