@@ -36,7 +36,8 @@ Steps:
 - Feature Selection & Dimensionality Reduction
 - Data Cleaning (replace null with closest values) and fixing imbalance (weighting - fmeasure)
 - Encoding  
-- Always try on those 3 models: SVM - RandomForest - XGBoost \
+- Always try on those 3 models: SVM - RandomForest - XGBoost 
+
 - Apply different feature selection / dimensionality reduction / pre-processing / data imbalance / data encoding for categorical data 
 - Create excel sheet for papers and common questions for AI tool
 - Start writing the report based on the paper summaries 
