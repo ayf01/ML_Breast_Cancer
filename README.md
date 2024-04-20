@@ -30,9 +30,11 @@
     - 3 papers (Fatima)
 - Feature selection (reducing the number of features) (Fatima)
 6. Week of April 22 => 
-- Share paper results 
-- Adjust models if needed 
-- Start writing the report and prepare submission 
+- Create a folder for each team member 
+- Apply different feature selection / dimensionality reduction / pre-processing / data imbalance / data encoding for categorical data 
+- Create excel sheet for papers and common questions for AI tool
+- Start writing the report based on the paper summaries 
+- Work on testing model 
 7. Week of April 29 =>  
 
 Team: Fatima Dekmak - Sumaya Hariri - Aida Fakher
