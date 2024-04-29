@@ -53,6 +53,7 @@ Team: Fatima Dekmak - Sumaya Hariri - Aida Fakher
 
 ##  Report:
 - Latex Link: https://www.overleaf.com/read/sdwdfbqbrvby#9511a1
+- Sheet: https://docs.google.com/spreadsheets/d/15Jzmkzf21s1lXoawuZYvjNtU3Uzvtt5UfPv46xG9TpY/edit?usp=sharing
 1. Abstract: provide a summary describing the problem you chose, how you tackled it, and a summary of your results.
 2. Introduction: describe your problem in detail and summarize your approach and findings
 3. Dataset: describe the dataset you used to train your models, and any pre-processing steps you performed.
